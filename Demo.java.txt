@@ -1,4 +1,4 @@
-public class {
+public class Demo{
 
 public static void main(String[] args){
 
@@ -7,6 +7,13 @@ int x=20;
 int y=90;
 int z=100;
 
+
+Demo d =new Demo();
+s.o.p(x);
+s.o.p(y);
+s.o.p(z);
+
+}
 
 
 }
